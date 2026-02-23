@@ -1,0 +1,61 @@
+name: Onboarding AID.
+description: O objetivo principal deste issue template é auxiliar no onboarding de novos integrantes da AID.
+title: Onboarding NOME-NOVO-INTEGRANTE
+labels: ['chore', 'documentation']
+projects: ['splor-mg/13']
+body:
+  - type: textarea
+    id: descricao
+    validations:
+      required: true
+    attributes:
+      label: Descrição
+      description: Inclua quantas atividades e tópicos a mais forem necessárias.
+      value: |
+
+        ### Estudos
+
+        - [ ] [Trilha-dev](https://trilhadev.planejamento.mg.gov.br/main/):
+          - [ ] Início da Jornada.
+          - [ ] Criação usuário GitHub.
+          - [ ] Python.
+          - [ ] Abrir um PR com alguma sugestão de melhoria em qualquer [repositório da organização splor-mg](https://github.com/orgs/splor-mg/repositories).
+        - [ ] [The Unix Shell](https://swcarpentry.github.io/shell-novice/)[^1].
+        - [ ] [Version Control with Git](https://swcarpentry.github.io/git-novice/)[^1].
+        - [ ] [Automation and Make](http://swcarpentry.github.io/make-novice/)[^1].
+
+          [^1]: O(s) curso(s) em questão é uma versão mais avançada do que foi apresentado no [Trilha-dev](https://trilhadev.planejamento.mg.gov.br/main/). A título de sugestão, deixamos como referência também os cursos [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/), [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/) e [Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/).
+
+        ### Fontes complementares para estudo
+
+        - [ ] Artigo [15 rules for communicating at GitHub](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/) e [esta ótima discussão](https://github.com/betterscientificsoftware/bssw.io/issues/375) sobre.
+        - [ ] TED Talk [Clay Shirky: Como a internet irá (um dia) transformar o governo](https://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government?hasSummary=true&language=pt-br).
+        - [ ] [Apresentação](https://youtu.be/JUW60w1jDdM?t=1346) relâmpago e seção de [dúvidas](https://youtu.be/JUW60w1jDdM?t=3734) na Conferência Brasileira de Jornalismo de Dados e Métodos Digitais (CODA 2021) falando um pouco sobre a importância de documentação de dados legível por máquina e [`docs as code`](https://www.writethedocs.org/guide/docs-as-code/).
+        - [ ] Artigo [Potencializando a Fluência em Dados: Estratégias de Gestão do Conhecimento na Administração Pública](https://github.com/splor-mg/consad-2023/blob/main/consad-2023.pdf).
+        - [ ] [Relacionamento das bases no relatório operacional: método Concatenate x Linktable](https://splor-mg.github.io/notas/main/20231804T160439/).
+        - [ ] Exemplo básico para utilização do pacote Python [frictionles-py](https://framework.frictionlessdata.io/docs/basic-examples.html).
+
+        ### Burocracia
+
+        - [ ] Inclusão de usuário GitHub na organização [SPLOR-MG](https://github.com/orgs/splor-mg/people), equipe [AID](https://github.com/orgs/splor-mg/teams/aid).
+        - [ ] Inclusão do novo integrante no Ponto Digital, conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Ponto-Digital-(apura%C3%A7%C3%A3o-de-frequ%C3%AAncia-e-gest%C3%A3o-de-equipes).aspx).
+        - [ ] Inclusão do novo integrante no SEI (Caixa SPLOR/AID), conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Atualiza%C3%A7%C3%A3o-no-Atendimento-do-Sistema-Eletr%C3%B4nico-de-Informa%C3%A7%C3%B5es-(SEI!)-na-SEPLAG.aspx), deverá ser feita via e-mail para admin_sei_seplag@planejamento.mg.gov.br.
+        - [ ] Solicitação de acesso de administrador da máquina:
+            - [ ] Criar processo SEI, conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Administrador-Local-da-M%C3%A1quina.aspx?xsdata=MDV8MDJ8fDVkY2RkM2ZiYWMxNjQ5MWI2MmFiMDhkZTY0MDk4YTNkfGU1ZDNhZTdjOWIzODQ4ZGVhMDg3ZjY3MzRhMjg3NTc0fDB8MHw2MzkwNTgxODkyNjk5NTExNDd8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T2pCaU9EVmlOR0V4TFRNeE16UXRORGswTWkwNU16a3hMVEk0WWprNVpqRmhZVFE1Wmw5aVpEUTNaRFE1WmkxaU1HWmhMVFEyTW1VdFlURTBNaTAzTkRrMFlUZzNNVGxsWkdKQWRXNXhMbWRpYkM1emNHRmpaWE12YldWemMyRm5aWE12TVRjM01ESXlNakV5TkRnek1BPT18ODIyOTQ1YWY4YTM4NDNlOGM1YjcwOGRlNjQwOThhM2N8ZjFkM2IwZGZkOGI3NGZhMjgwZTY5MTI1NGIzYzQzZmI%3D&sdata=bHBZaWFoYy8zL2hjci9XQ2lGc05rOVFJdkJuVVRIT3g0Q2VwemkzbzNKdz0%3D&ovuser=e5d3ae7c-9b38-48de-a087-f6734a287574%2Cx18388809%40ca.mg.gov.br&OR=Teams-HL&CT=1771868638992&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI2MDIwMTAxMTE3In0%3D).
+            - [ ] Solicitar assinatura do responsável.
+            - [ ] Encaminhar processo para setor responsável.
+        - [ ] Solicitar acesso à VPN[^2].
+
+          [^2]: Pedido simples via Teams para integrantes da [SUBGEF/DDT](https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#:~:text=Diretoria%20de%20Desenvolvimento%20Tecnol%C3%B3gico) encaminhando Hostname da máquina e nome completo do novo integrante.
+
+        ### Links úteis
+
+        - [Organização splor-mg GitHub](https://github.com/splor-mg/).
+        - [Apresentações AID](https://splor-mg.github.io/apresentacoes).
+        - [Apresentação sobre AID](https://splor-mg.github.io/apresentacoes/20251216_apresentacao_aid.html?showNotes=true#/).
+        - [Blog Handbook splor](https://splor-mg.github.io/handbook/blog/).
+        - [Carta de serviços SUBGEF/SEPLAG](https://cecad365.sharepoint.com/sites/cartadeservicos/) - Gefinho.
+
+        ### Participantes
+
+        @...
