@@ -1,4 +1,4 @@
-# Onboarding — AID | SPLOR-MG
+# Onboarding SPLOR-MG
 
 Este repositório tem como objetivo centralizar e padronizar o processo de onboarding de novos integrantes da SPLOR-MG.
 
