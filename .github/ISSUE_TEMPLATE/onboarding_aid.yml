@@ -38,13 +38,14 @@ body:
 
         ### Burocracia
 
+        - [ ] Criação de usuários de rede e e-mail institucional, conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Cria%C3%A7%C3%A3o-de-usu%C3%A1rios-e-e-mails.aspx).
         - [ ] Inclusão do novo integrante no grupo AID/SPLOR do Teams.
-        - [ ] Inclusão do novo integrante na caixa de email `aid@planejamento.mg.gov.br`[^2].
-        - [ ] Inclusão do novo integrante na caixa de email `aid.splor@gmail.com` (duplo fator de autenticação).
+        - [ ] Inclusão do novo integrante na caixa de e-mail `aid@planejamento.mg.gov.br`[^2].
+        - [ ] Inclusão do novo integrante na caixa de e-mail `aid.splor@gmail.com` (duplo fator de autenticação).
         - [ ] Inclusão do novo integrante no grupo AID do Whatsapp (se ele permitir).
         - [ ] Inclusão do usuário GitHub do novo integrante na organização [SPLOR-MG](https://github.com/orgs/splor-mg/people), equipe [AID](https://github.com/orgs/splor-mg/teams/aid).
         - [ ] Inclusão do novo integrante no Ponto Digital, conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Ponto-Digital-(apura%C3%A7%C3%A3o-de-frequ%C3%AAncia-e-gest%C3%A3o-de-equipes).aspx).
-        - [ ] Inclusão do novo integrante no SEI (Caixa SPLOR/AID), conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Atualiza%C3%A7%C3%A3o-no-Atendimento-do-Sistema-Eletr%C3%B4nico-de-Informa%C3%A7%C3%B5es-(SEI!)-na-SEPLAG.aspx), deverá ser feita via e-mail para admin_sei_seplag@planejamento.mg.gov.br.
+        - [ ] Inclusão do novo integrante no SEI (Caixa SPLOR/AID), conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Atualiza%C3%A7%C3%A3o-no-Atendimento-do-Sistema-Eletr%C3%B4nico-de-Informa%C3%A7%C3%B5es-(SEI!)-na-SEPLAG.aspx), deverá ser feita via e-mail para `admin_sei_seplag@planejamento.mg.gov.br`.
         - [ ] Solicitação de acesso de administrador da máquina:
             - [ ] Criar processo SEI, conforme orientações da [carta de serviços](https://cecad365.sharepoint.com/sites/cartadeservicos/SitePages/Administrador-Local-da-M%C3%A1quina.aspx?xsdata=MDV8MDJ8fDVkY2RkM2ZiYWMxNjQ5MWI2MmFiMDhkZTY0MDk4YTNkfGU1ZDNhZTdjOWIzODQ4ZGVhMDg3ZjY3MzRhMjg3NTc0fDB8MHw2MzkwNTgxODkyNjk5NTExNDd8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T2pCaU9EVmlOR0V4TFRNeE16UXRORGswTWkwNU16a3hMVEk0WWprNVpqRmhZVFE1Wmw5aVpEUTNaRFE1WmkxaU1HWmhMVFEyTW1VdFlURTBNaTAzTkRrMFlUZzNNVGxsWkdKQWRXNXhMbWRpYkM1emNHRmpaWE12YldWemMyRm5aWE12TVRjM01ESXlNakV5TkRnek1BPT18ODIyOTQ1YWY4YTM4NDNlOGM1YjcwOGRlNjQwOThhM2N8ZjFkM2IwZGZkOGI3NGZhMjgwZTY5MTI1NGIzYzQzZmI%3D&sdata=bHBZaWFoYy8zL2hjci9XQ2lGc05rOVFJdkJuVVRIT3g0Q2VwemkzbzNKdz0%3D&ovuser=e5d3ae7c-9b38-48de-a087-f6734a287574%2Cx18388809%40ca.mg.gov.br&OR=Teams-HL&CT=1771868638992&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiIxNDE1LzI2MDIwMTAxMTE3In0%3D) e [processo SEI de exemplo](https://www.sei.mg.gov.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=924223695).
             - [ ] Solicitar assinatura do responsável.
@@ -56,6 +57,7 @@ body:
 
         ### Links úteis
 
+        - [Quem é quem SEPLAG/SPLOR](https://www.mg.gov.br/planejamento/pagina/geral/quem-e-quem#subsecretaria-de-planejamento-e-orcamento).
         - [Organização splor-mg GitHub](https://github.com/splor-mg/).
         - [Apresentações AID](https://splor-mg.github.io/apresentacoes).
         - [Apresentação sobre AID](https://splor-mg.github.io/apresentacoes/20251216_apresentacao_aid.html?showNotes=true#/).
