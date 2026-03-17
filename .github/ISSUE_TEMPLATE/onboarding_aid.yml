@@ -20,7 +20,7 @@ body:
           - [ ] Criação usuário GitHub.
           - [ ] Python.
           - [ ] Abrir um PR com alguma sugestão de melhoria em qualquer [repositório da organização splor-mg](https://github.com/orgs/splor-mg/repositories).
-        - [ ] [Setup máquina]().
+        - [ ] [Setup máquina](https://splor-mg.github.io/handbook/blog/setup-da-m%C3%A1quina/).
         - [ ] [The Unix Shell](https://swcarpentry.github.io/shell-novice/)[^1].
         - [ ] [Version Control with Git](https://swcarpentry.github.io/git-novice/)[^1].
         - [ ] [Automation and Make](http://swcarpentry.github.io/make-novice/)[^1].
